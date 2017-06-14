@@ -51,15 +51,15 @@ p {
   margin:0 2% 20px;
 }
 
-@media (min-width: 320px) {
+@media (min-width: 400px) {
   .container {
-    width: 302px;
+    width: 400px;
   }
 }
 
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 600px;
   }
   .one-half {
     width: 46%;
@@ -72,9 +72,9 @@ p {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 960px) {
   .container {
-    width: 970px;
+    width: 960px;
   }
 }
 
