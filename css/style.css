@@ -582,6 +582,6 @@ footer .logo{
    margin:5px 0 0;
  }
 
- a:active{
+ .active{
    background-color: #2ECC71;
  }
